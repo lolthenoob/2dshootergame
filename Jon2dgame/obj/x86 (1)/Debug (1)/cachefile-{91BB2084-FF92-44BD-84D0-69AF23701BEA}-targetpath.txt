@@ -1,0 +1,5 @@
+Content\stickmanv2.xnb
+Content\battlefield.xnb
+Content\enemy.xnb
+Content\playerbullet.xnb
+Content\enemybullet.xnb

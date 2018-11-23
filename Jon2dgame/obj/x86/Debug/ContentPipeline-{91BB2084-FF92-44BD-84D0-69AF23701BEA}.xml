@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>playerbullet.png</Source>
+      <Name>playerbullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\playerbullet.xnb</Output>
+      <Time>2017-07-28T17:33:44+12:00</Time>
+    </Item>
+    <Item>
+      <Source>stickmanv2.png</Source>
+      <Name>stickmanv2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\stickmanv2.xnb</Output>
+      <Time>2017-07-28T17:33:44+12:00</Time>
+    </Item>
+    <Item>
+      <Source>enemy.png</Source>
+      <Name>enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\enemy.xnb</Output>
+      <Time>2017-07-28T17:33:44+12:00</Time>
+    </Item>
+    <Item>
+      <Source>enemybullet.png</Source>
+      <Name>enemybullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\enemybullet.xnb</Output>
+      <Time>2017-07-29T14:19:20+12:00</Time>
+    </Item>
+    <Item>
+      <Source>healthbar.png</Source>
+      <Name>healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\healthbar.xnb</Output>
+      <Time>2017-07-29T16:19:58+12:00</Time>
+    </Item>
+    <Item>
+      <Source>maxplayerhealthbar.png</Source>
+      <Name>maxplayerhealthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\maxplayerhealthbar.xnb</Output>
+      <Time>2017-07-29T16:17:08+12:00</Time>
+    </Item>
+    <Item>
+      <Source>heartshape.png</Source>
+      <Name>heartshape</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\heartshape.xnb</Output>
+      <Time>2017-07-29T16:48:36+12:00</Time>
+    </Item>
+    <Item>
+      <Source>titleScreen.png</Source>
+      <Name>titleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\titleScreen.xnb</Output>
+      <Time>2017-07-29T22:05:38+12:00</Time>
+    </Item>
+    <Item>
+      <Source>tutorialbutton.png</Source>
+      <Name>tutorialbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\tutorialbutton.xnb</Output>
+      <Time>2017-07-29T23:25:32+12:00</Time>
+    </Item>
+    <Item>
+      <Source>playbutton.png</Source>
+      <Name>playbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\playbutton.xnb</Output>
+      <Time>2017-07-29T23:26:54+12:00</Time>
+    </Item>
+    <Item>
+      <Source>exitbutton.png</Source>
+      <Name>exitbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\exitbutton.xnb</Output>
+      <Time>2017-07-29T23:26:10+12:00</Time>
+    </Item>
+    <Item>
+      <Source>pausebutton.png</Source>
+      <Name>pausebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\pausebutton.xnb</Output>
+      <Time>2017-07-29T22:15:34+12:00</Time>
+    </Item>
+    <Item>
+      <Source>resumebutton.png</Source>
+      <Name>resumebutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\resumebutton.xnb</Output>
+      <Time>2017-07-29T22:34:54+12:00</Time>
+    </Item>
+    <Item>
+      <Source>tutorial.png</Source>
+      <Name>tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\tutorial.xnb</Output>
+      <Time>2017-07-29T23:47:48+12:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.png</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2017-07-29T23:35:48+12:00</Time>
+    </Item>
+    <Item>
+      <Source>credits.png</Source>
+      <Name>credits</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\credits.xnb</Output>
+      <Time>2017-07-29T23:59:20+12:00</Time>
+    </Item>
+    <Item>
+      <Source>returnmainmenu.png</Source>
+      <Name>returnmainmenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\returnmainmenu.xnb</Output>
+      <Time>2017-07-29T23:31:42+12:00</Time>
+    </Item>
+    <Item>
+      <Source>creditsbutton.png</Source>
+      <Name>creditsbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\creditsbutton.xnb</Output>
+      <Time>2017-07-30T00:22:00+12:00</Time>
+    </Item>
+    <Item>
+      <Source>battlefield.png</Source>
+      <Name>battlefield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\battlefield.xnb</Output>
+      <Time>2017-08-01T22:57:20+12:00</Time>
+    </Item>
+    <Item>
+      <Source>georgia.spritefont</Source>
+      <Name>georgia</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\georgia.xnb</Output>
+      <Time>2017-07-29T17:21:02+12:00</Time>
+    </Item>
+    <Item>
+      <Source>SpiderDanceRemix.mp3</Source>
+      <Name>SpiderDanceRemix</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\SpiderDanceRemix.xnb</Output>
+      <Extra>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\SpiderDanceRemix.wma</Extra>
+      <Time>2017-10-31T14:24:58+12:00</Time>
+    </Item>
+    <Item>
+      <Source>Alan Walker - Fade.mp3</Source>
+      <Name>Alan Walker - Fade</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\Alan Walker - Fade.xnb</Output>
+      <Extra>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\Alan Walker - Fade.wma</Extra>
+      <Time>2017-07-30T13:45:00+12:00</Time>
+    </Item>
+    <Item>
+      <Source>Finale.mp3</Source>
+      <Name>Finale</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\Finale.xnb</Output>
+      <Extra>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\Finale.wma</Extra>
+      <Time>2017-10-31T14:29:20+12:00</Time>
+    </Item>
+    <Item>
+      <Source>Megalovania.mp3</Source>
+      <Name>Megalovania</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\Megalovania.xnb</Output>
+      <Extra>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\Megalovania.wma</Extra>
+      <Time>2017-07-30T13:51:12+12:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{91BB2084-FF92-44BD-84D0-69AF23701BEA}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgameContent\</RootDirectory>
+      <LoggerRootDirectory>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\school\Hillcrest\2017 Year 12\Programing\Coding Project\Jon2dgame\Jon2dgame\Jon2dgame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T18:22:30+12:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T18:22:30+12:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T18:22:30+12:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T18:22:30+12:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T18:22:30+12:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T18:22:30+12:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-07-25T20:43:55.9105235+12:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

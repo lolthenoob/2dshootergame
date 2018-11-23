@@ -1,0 +1,28 @@
+Content\playerbullet.xnb
+Content\stickmanv2.xnb
+Content\enemy.xnb
+Content\enemybullet.xnb
+Content\healthbar.xnb
+Content\maxplayerhealthbar.xnb
+Content\heartshape.xnb
+Content\titleScreen.xnb
+Content\tutorialbutton.xnb
+Content\playbutton.xnb
+Content\exitbutton.xnb
+Content\pausebutton.xnb
+Content\resumebutton.xnb
+Content\tutorial.xnb
+Content\gameover.xnb
+Content\credits.xnb
+Content\returnmainmenu.xnb
+Content\creditsbutton.xnb
+Content\battlefield.xnb
+Content\georgia.xnb
+Content\SpiderDanceRemix.xnb
+Content\SpiderDanceRemix.wma
+Content\Alan Walker - Fade.xnb
+Content\Alan Walker - Fade.wma
+Content\Finale.xnb
+Content\Finale.wma
+Content\Megalovania.xnb
+Content\Megalovania.wma
